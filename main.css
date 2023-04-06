@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+.page {
+    max-width: 70%;
+    margin: auto;
+    background-color: whitesmoke;
+
+}
+header {
+    max-width: 70%;
+    margin: auto;
+}
+h1 {
+    font-size: 3rem;
+    font-family: 'Roboto', sans-serif;
+    padding: 50px;
+    margin: 0;
+    font-weight: bold;
+    text-decoration: ;
+    color: black;
+    background-color: whitesmoke;
+    text-align: center;
+}
+
+h2 {
+    font-size: 25px;
+    font-family: 'Roboto', sans-serif ;
+    padding: 10px;
+    Padding-left: 30px;
+    margin: 0;
+    font-weight: 900;
+    color: #5a5a7e;
+    background: rgb(255,243,248);
+    background: linear-gradient(90deg, rgba(255,243,248,1) 0%, rgba(252,119,122,1) 66%, rgba(249,5,5,1) 100%);
+}
+
+p {
+    max-width: 50%;
+    font-family: 'Roboto', sans-serif ;;
+    font-size: 16px;
+    padding: 0x;
+    margin: 20px;
+    color: #292828;
+}
+
+.logo {
+    background-size: cover;
+    background-image: url("https://appacademy.github.io/styleguide/assets/logo/logo-emblem-black-1000.png");
+    background-color: rgb(250, 8, 8);
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    margin-left: 50px;
+}
+
+.para {
+    margin: auto;
+    width: 80%;
+    padding: 10px;
+}
+
+.align {
+    margin-left: 30%;
+    width: 70%;
+}
